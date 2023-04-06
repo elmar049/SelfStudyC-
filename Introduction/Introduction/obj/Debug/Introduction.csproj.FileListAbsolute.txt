@@ -1,0 +1,8 @@
+C:\Users\elmar\Desktop\SelfStudyC#\Introduction\Introduction\bin\Debug\Introduction.exe.config
+C:\Users\elmar\Desktop\SelfStudyC#\Introduction\Introduction\bin\Debug\Introduction.exe
+C:\Users\elmar\Desktop\SelfStudyC#\Introduction\Introduction\bin\Debug\Introduction.pdb
+C:\Users\elmar\Desktop\SelfStudyC#\Introduction\Introduction\obj\Debug\Introduction.csproj.AssemblyReference.cache
+C:\Users\elmar\Desktop\SelfStudyC#\Introduction\Introduction\obj\Debug\Introduction.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmar\Desktop\SelfStudyC#\Introduction\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\elmar\Desktop\SelfStudyC#\Introduction\Introduction\obj\Debug\Introduction.exe
+C:\Users\elmar\Desktop\SelfStudyC#\Introduction\Introduction\obj\Debug\Introduction.pdb

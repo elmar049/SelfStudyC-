@@ -1,0 +1,8 @@
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\MIniKassa\obj\Debug\MIniKassa.csproj.AssemblyReference.cache
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\MIniKassa\obj\Debug\MIniKassa.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\MIniKassa\obj\Debug\MIniKassa.csproj.CoreCompileInputs.cache
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\MIniKassa\bin\Debug\MIniKassa.exe.config
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\MIniKassa\bin\Debug\MIniKassa.exe
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\MIniKassa\bin\Debug\MIniKassa.pdb
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\MIniKassa\obj\Debug\MIniKassa.exe
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\MIniKassa\obj\Debug\MIniKassa.pdb

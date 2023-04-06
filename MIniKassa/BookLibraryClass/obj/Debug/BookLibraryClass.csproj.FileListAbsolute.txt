@@ -1,0 +1,8 @@
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\BookLibraryClass\bin\Debug\BookLibraryClass.exe.config
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\BookLibraryClass\bin\Debug\BookLibraryClass.exe
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\BookLibraryClass\bin\Debug\BookLibraryClass.pdb
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\BookLibraryClass\obj\Debug\BookLibraryClass.csproj.AssemblyReference.cache
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\BookLibraryClass\obj\Debug\BookLibraryClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\BookLibraryClass\obj\Debug\BookLibraryClass.csproj.CoreCompileInputs.cache
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\BookLibraryClass\obj\Debug\BookLibraryClass.exe
+C:\Users\elmar\Desktop\SelfStudyC#\MIniKassa\BookLibraryClass\obj\Debug\BookLibraryClass.pdb
