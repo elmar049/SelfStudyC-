@@ -41,7 +41,7 @@ namespace ListClassMethodMassiveTask
         public string GroupName;
         public static int ID = 100;
         public int GrNmb;
-        List <Student> telebelersiyagi = new List<Student>();
+        List<Student> telebelersiyagi = new List<Student>();
         public int Capacity;
 
         public Group(string grupadi, int MaxSay)
@@ -52,4 +52,5 @@ namespace ListClassMethodMassiveTask
             Capacity = MaxSay;
         }
     }
+    class Xuyas { }
 }
