@@ -1,0 +1,8 @@
+C:\Users\elmar\Desktop\SelfStudyC#\ListClassMethodMassiveTask\ListClassMethodMassiveTask\bin\Debug\ListClassMethodMassiveTask.exe.config
+C:\Users\elmar\Desktop\SelfStudyC#\ListClassMethodMassiveTask\ListClassMethodMassiveTask\bin\Debug\ListClassMethodMassiveTask.exe
+C:\Users\elmar\Desktop\SelfStudyC#\ListClassMethodMassiveTask\ListClassMethodMassiveTask\bin\Debug\ListClassMethodMassiveTask.pdb
+C:\Users\elmar\Desktop\SelfStudyC#\ListClassMethodMassiveTask\ListClassMethodMassiveTask\obj\Debug\ListClassMethodMassiveTask.csproj.AssemblyReference.cache
+C:\Users\elmar\Desktop\SelfStudyC#\ListClassMethodMassiveTask\ListClassMethodMassiveTask\obj\Debug\ListClassMethodMassiveTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmar\Desktop\SelfStudyC#\ListClassMethodMassiveTask\ListClassMethodMassiveTask\obj\Debug\ListClassMethodMassiveTask.csproj.CoreCompileInputs.cache
+C:\Users\elmar\Desktop\SelfStudyC#\ListClassMethodMassiveTask\ListClassMethodMassiveTask\obj\Debug\ListClassMethodMassiveTask.exe
+C:\Users\elmar\Desktop\SelfStudyC#\ListClassMethodMassiveTask\ListClassMethodMassiveTask\obj\Debug\ListClassMethodMassiveTask.pdb
